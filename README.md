@@ -16,6 +16,11 @@ I'm a passionate full-stack engineer with a strong foundation in front-end and b
 
 I'm always open to new opportunities and collaborations. Let's work together to create amazing things!
 
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/faresyigeremu) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/https://ko-fi.com/faresyigeremu) 
+
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/faresyigeremu) 
 
