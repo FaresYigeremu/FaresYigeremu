@@ -1,7 +1,20 @@
-## Hi there 👋
-# 💫 About Me:
-I'm currently working on E-commerce website<br>I'm currently learning React and Nextjs
+## Hi there 👋 My Name is Fares Yigeremu
+# 💫 About Me: **Full Stack Engineer | Lifelong Learner**
 
+I'm a passionate full-stack engineer with a strong foundation in front-end and back-end development. I'm constantly striving to learn new technologies and best practices to deliver high-quality, innovative solutions. 
+
+**Interests:**
+
+* Exploring new technologies and frameworks
+* Contributing to open-source projects
+* Building scalable and efficient web applications
+* Staying up-to-date with industry trends
+
+**Let's connect!**
+
+* **Email:** [faresyigeremu@gmail.com]
+
+I'm always open to new opportunities and collaborations. Let's work together to create amazing things!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/faresyigeremu) 
