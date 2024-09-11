@@ -12,7 +12,7 @@ I'm a passionate full-stack engineer with a strong foundation in front-end and b
 
 **Let's connect!**
 
-* [![Email](faresyigeremu@gmail.com)]
+* [Email](faresyigeremu@gmail.com)
 
 I'm always open to new opportunities and collaborations. Let's work together to create amazing things!
 
