@@ -3,7 +3,7 @@
 
 I'm a passionate full-stack engineer with a strong foundation in front-end and back-end development. I'm constantly striving to learn new technologies and best practices to deliver high-quality, innovative solutions. 
 
-**Interests:**
+**Interests:-**
 
 * Exploring new technologies and frameworks
 * Contributing to open-source projects
@@ -12,7 +12,7 @@ I'm a passionate full-stack engineer with a strong foundation in front-end and b
 
 **Let's connect!**
 
-* **Email:** [faresyigeremu@gmail.com]
+* [[!Email](faresyigeremu@gmail.com)]
 
 I'm always open to new opportunities and collaborations. Let's work together to create amazing things!
 
